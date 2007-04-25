@@ -1,9 +1,11 @@
 #labels Featured
 #如何安装Some Chinese Please
 
-= Introduction =
+= 安装/Install =
+* 安装过程
+  # 在[http://code.google.com/p/some-chinese-please/downloads/list Downloads]页中下载最新的SCP压缩包；
+  # 将压缩包解压缩；
+  # 上传 _Some Chinese Please_ 文件夹到 _wp-content/plugins_ 文件夹中；
+  # 登录wordpress blog后台，至插件（Plugins）页激活（Activate）Some Chinese Please即可。
 
-# 在[Downloads http://code.google.com/p/some-chinese-please/downloads/list]页中下载最新的SCP压缩包；
-# 将压缩包解压缩；
-# 上传_Some Chinese Please_文件夹到_wp-content/plugins_文件夹中；
-# 登录wordpress blog后台，至插件（Plugins）页激活（Activate）Some Chinese Please即可。
+
